@@ -1,6 +1,6 @@
 # Automated Email Responder with CrewAI and Gmail API
 
-This project uses CrewAI and the Gmail API to automatically respond to emails.  It checks for new messages every 2 seconds and uses AI agents to draft replies.
+This project{https://www.linkedin.com/feed/update/urn:li:activity:7304425730707251201/} uses CrewAI and the Gmail API to automatically respond to emails.  It checks for new messages every 2 seconds and uses AI agents to draft replies.
 
 ## Overview
 
